@@ -10,8 +10,6 @@ This project aims to predict the price of airplane tickets based on various inpu
 - [Dataset](#dataset)
 - [Installation and Running](#installation-and-running)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
 
 ## Description
 
