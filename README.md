@@ -1,6 +1,6 @@
 # Airfare Prediction
 
-This project aims to predict the price of airplane tickets based on various input variables such as date, day, locations, etc.
+This project aims to predict the price of airplane tickets based on various input variables such as date, day, locations, etc , Building best predictor model with Airline data  analysis & prediction future prices of flight tickets.(Client : Airlines – Indigo /Vistara) 
 
 ## Table of Contents
 
