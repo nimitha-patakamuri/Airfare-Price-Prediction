@@ -51,9 +51,7 @@ The project uses a custom dataset named `vistara.csv`.
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/PavanY02/Airfare.git
-    ```
+   
 2. Navigate into the directory:
     ```bash
     cd Airfare.git
